@@ -1,9 +1,102 @@
 # signLanguage
 
-#pip install pip==25.1.1
-#pip install pycairo==1.27.0
-#pip install PyGObject==3.52.3
-#pip install pywatchman==2.0.0
-#pip install setuptools==80.9.0
-#pip install six==1.17.0
-#pip install wheel==0.45.1
+## 环境信息
+- **Python 版本**: 3.9.23
+- **虚拟环境**: .venv
+
+## 已安装的包
+
+| Package                          | Version      |
+|----------------------------------|--------------|
+| absl-py                          | 2.3.1       |
+| astunparse                       | 1.6.3       |
+| attrs                            | 25.3.0      |
+| blinker                          | 1.9.0       |
+| cachetools                       | 5.5.2       |
+| cattrs                           | 25.1.1      |
+| certifi                          | 2025.8.3    |
+| cffi                             | 1.17.1      |
+| charset-normalizer               | 3.4.2       |
+| click                            | 8.1.8       |
+| contourpy                        | 1.3.0       |
+| coremltools                      | 6.0         |
+| cycler                           | 0.12.1      |
+| exceptiongroup                   | 1.3.0       |
+| Flask                            | 3.1.1       |
+| flatbuffers                      | 25.2.10     |
+| fonttools                        | 4.59.0      |
+| gast                             | 0.4.0       |
+| google-auth                      | 2.40.3      |
+| google-auth-oauthlib             | 1.0.0       |
+| google-pasta                     | 0.2.0       |
+| grpcio                           | 1.74.0      |
+| h5py                             | 3.14.0      |
+| idna                             | 3.10        |
+| importlib_metadata               | 8.7.0       |
+| importlib_resources              | 6.5.2       |
+| itsdangerous                     | 2.2.0       |
+| jax                              | 0.4.30      |
+| jaxlib                           | 0.4.30      |
+| Jinja2                           | 3.1.6       |
+| joblib                           | 1.5.1       |
+| keras                            | 2.12.0      |
+| kiwisolver                       | 1.4.7       |
+| libclang                         | 18.1.1      |
+| Markdown                         | 3.8.2       |
+| markdown-it-py                   | 3.0.0       |
+| MarkupSafe                       | 3.0.2       |
+| matplotlib                       | 3.9.4       |
+| mdurl                            | 0.1.2       |
+| mediapipe                        | 0.10.5      |
+| ml_dtypes                        | 0.5.3       |
+| mpmath                           | 1.3.0       |
+| namex                            | 0.1.0       |
+| numpy                            | 1.23.5      |
+| oauthlib                         | 3.3.1       |
+| opencv-contrib-python            | 4.11.0.86   |
+| opencv-python                    | 4.12.0.88   |
+| opt_einsum                       | 3.4.0       |
+| optree                           | 0.17.0      |
+| packaging                        | 25.0        |
+| pandas                           | 2.3.1       |
+| pillow                           | 11.3.0      |
+| pip                              | 25.1.1      |
+| protobuf                         | 3.20.3      |
+| pyaml                            | 25.7.0      |
+| pyasn1                           | 0.6.1       |
+| pyasn1_modules                   | 0.4.2       |
+| pycairo                          | 1.27.0      |
+| pycparser                        | 2.22        |
+| Pygments                         | 2.19.2      |
+| pyparsing                       | 3.2.3       |
+| python-dateutil                  | 2.9.0.post0 |
+| pytz                             | 2025.2      |
+| pywatchman                       | 2.0.0       |
+| PyYAML                           | 6.0.2       |
+| requests                         | 2.32.4      |
+| requests-oauthlib                | 2.0.0       |
+| rich                             | 14.1.0      |
+| rsa                              | 4.9.1       |
+| scikit-learn                     | 1.6.1       |
+| scipy                            | 1.13.1      |
+| sentencepiece                    | 0.2.0       |
+| setuptools                       | 80.9.0      |
+| six                              | 1.17.0      |
+| sounddevice                      | 0.5.2       |
+| sympy                            | 1.14.0      |
+| tensorboard                      | 2.12.3      |
+| tensorboard-data-server          | 0.7.2       |
+| tensorflow                       | 2.13.0      |
+| tensorflow-estimator             | 2.12.0      |
+| tensorflow-io-gcs-filesystem     | 0.37.1      |
+| tensorflow-macos                 | 2.12.0      |
+| termcolor                        | 3.1.0       |
+| threadpoolctl                    | 3.6.0       |
+| tqdm                             | 4.67.1      |
+| typing_extensions                | 4.5.0       |
+| tzdata                           | 2025.2      |
+| urllib3                          | 2.5.0       |
+| Werkzeug                         | 3.1.3       |
+| wheel                            | 0.45.1      |
+| wrapt                            | 1.14.1      |
+| zipp                             | 3.23.0      |
